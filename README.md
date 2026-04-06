@@ -1,2 +1,5 @@
-# data-science-aroma-cafe
-Projeto de Data Science aplicado ao contexto de uma loja de café. Um estudo de caso sobre o volume de vendas, analisando dados históricos e projetando o futuro do negócio.
+# 📊 Análise de Dados na Prática | Estudo de caso da empresa Aroma Café
+
+Este projeto apresenta uma análise de ponta a ponta da rede de cafeterias Aroma Café. O objetivo principal é diadnosticar as flutuações no faturamento e fazer recomendações baseadas em dados para fortalecer o crescimento da empresa.
+
+
